@@ -64,10 +64,10 @@ Hand-Gesture-Mouse-Control/
 
 This project was developed as a final year engineering project at A.B.M.S. Parishad’s Anantrao Pawar College of Engineering & Research, Pune.
 
-- **Sahil R. Bandal** – sahil.bandal@abmspcoerpune.org
-- **Kedar Mane** – kedar.mane@abmspcoerpune.org
-- **Sanket Kadam** – sanket.kadam@abmspcoerpune.org
-- **Sweety Gholwe** – sweety.gholwe@abmspcoerpune.org
+- **Sahil R. Bandal**
+- **Kedar Mane**
+- **Sanket Kadam**
+- **Sweety Gholwe**
 
 **Guided by:** Dr. Sandeep Kadam  
 **Department:** Computer Engineering  
