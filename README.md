@@ -34,9 +34,6 @@ A virtual mouse system that allows users to control the computer cursor using on
    ```
 
 3. Run any of the available Python scripts depending on your use case:
-   ```bash
-   python main.py
-   ```
    - To run the hand tracking module:  
      ```bash
      python HandTrackingMin.py
