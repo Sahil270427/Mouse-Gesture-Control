@@ -70,8 +70,6 @@ This project was developed as a final year engineering project at A.B.M.S. Paris
 - **Sweety Gholwe**
 
 **Guided by:** Dr. Sandeep Kadam  
-**Department:** Computer Engineering  
-**Academic Year:** 2021–22
 
 ## 📝 License
 
