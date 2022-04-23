@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.Python
+env/
+venv/
+ENV/
+env.bak/
+*.sqlite3
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.unitypackage
+*.apk
+*.aab

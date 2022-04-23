@@ -1,0 +1,7 @@
+* text=auto
+*.py linguist-language=Python
+*.cs linguist-language=C#
+*.md text
+*.unity text
+*.prefab text
+*.mat text
