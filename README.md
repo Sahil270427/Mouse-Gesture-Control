@@ -33,10 +33,22 @@ A virtual mouse system that allows users to control the computer cursor using on
    pip install -r requirements.txt
    ```
 
-3. Run the main script:
+3. Run any of the available Python scripts depending on your use case:
    ```bash
    python main.py
    ```
+   - To run the hand tracking module:  
+     ```bash
+     python HandTrackingMin.py
+     ```  
+   - Alternatively, you can run:  
+     ```bash
+     python HandTrackingModule.py
+     ```  
+   - To control the Volume using gestures:  
+     ```bash
+     python VolumeHandControl.py
+     ```  
 
 ## 📁 Project Structure
 
